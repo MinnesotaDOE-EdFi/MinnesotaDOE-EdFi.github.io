@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+![Image](https://education.mn.gov/mdeprod/fragments/topnavdropdowns/images/logo_lg.png)
+# 2020-21 SIS Vendor Programming Resources
+Ed-Fi Test Sandbox environments are available for SIS vendors to implement and test their integration with the 2020-21 Minnesota Ed-Fi API.  If you are a SIS vendor and want access to an Ed-Fi Test Sandbox Environment, please [contact us by email](mailto:EdFiProjectSupportMNIT.MDE@state.mn.us).
 
-You can use the [editor on GitHub](https://github.com/MinnesotaDOE-EdFi/MinnesotaDOE-EdFi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Ed-Fi API Software Development Kit (SDK)
+The Minnesota Ed-Fi API software development kit can assist SIS vendors with implementation.
+- [Minnesota Ed-Fi API Software Development Kit](https://github.com/MinnesotaDOE-EdFi/MDE-Ed-Fi-ODS-API-SDK)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ed-Fi SIS Vendor and District Test Plan
+This test plan documents the most recent Ed-Fi API implementation and certification process for Minnesota. Detailed technical information is included in the test plan for SIS vendors on the following topics:
+- Accessing the Ed-Fi Administration tool and Swagger documentation for your test sandbox environment
+- Configuring URLs for Minnesota Ed-Fi APIs
+- Interpreting Minnesota's Ed-Fi Data Mapping Matrix
+- Testing your implementation of Minnesota's Ed-Fi API resources
 
-### Markdown
+## Ed-Fi API Release Documentation
+- [2020-21 SIS Vendor and District Test Plan](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2020-21%20MDE%20Ed-Fi%20Documentation/2020-21%20SIS%20Vendor%20and%20District%20Test%20Plan.docx)
+- [2020-21 Sandbox Certification Scenarios](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2020-21%20MDE%20Ed-Fi%20Documentation/2020-21%20Sandbox%20Certification%20Scenarios.docx)
+- [2020-21 Student Enrollment Data Mapping Matrix](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2020-21%20MDE%20Ed-Fi%20Documentation/2020-21%20Student%20Enrollment%20Data%20Mapping%20Matrix%20Ed-Fi%203.1.xlsx)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The 2020-21 Ed-Fi API implementation also includes more data elements which we are planning for rollout starting in 2021-22.  While we do not yet have Ed-Fi SIS Vendor and District Test Plan documentation prepared for 2021-22, below is prerelease data mapping matrix documentation for these additional data elements:
+- [Minnesota Common Course Catalog (MCCC) Data Mapping Matrix](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2021-22%20MDE%20Ed-Fi%20Documentation%20Preview/2021-22%20MCCC%20Mapping%20Data%20Mapping%20Matrix%20Ed-Fi%203.1.xlsx)
 
-```markdown
-Syntax highlighted code block
+# 2019-20 SIS Vendor Programming Resources
+The Ed-Fi SIS Vendor and District Test Plan documentation for 2019-20 is still available below.  However, only the latest version of the Ed-Fi API SDK is available, which has been updated for 2020-21 (see above).
+- [2019-20 SIS Vendor and District Test Plan](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2019-20%20MDE%20Ed-Fi%20Documentation/2019-20%20SIS%20Vendor%20and%20District%20Test%20Plan.docx)
+- [2019-20 Sandbox Certification Scenarios](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2019-20%20MDE%20Ed-Fi%20Documentation/2019-20%20Sandbox%20Certification%20Scenarios.docx)
+- [2019-20 MARSS Data Mapping Matrix](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2019-20%20MDE%20Ed-Fi%20Documentation/2019-20%20MARSS%20Data%20Mapping%20Matrix%20Ed-Fi%203.1.xlsx)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MinnesotaDOE-EdFi/MinnesotaDOE-EdFi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Support or Contact
+For any questions about the Minnesota Ed-Fi API, please [contact us by email](mailto:EdFiProjectSupportMNIT.MDE@state.mn.us).
