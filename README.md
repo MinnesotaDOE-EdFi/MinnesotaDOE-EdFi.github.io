@@ -29,7 +29,7 @@ The 2020-21 Ed-Fi API implementation also includes more data elements which we a
 # 2019-20 SIS Vendor Programming Resources
 The Ed-Fi SIS Vendor and District Test Plan documentation for 2019-20 is still available below.  However, only the latest version of the Ed-Fi API SDK is available, which has been updated for 2020-21 (see above).
 
-[2010-20 Ed-Fi API Release Documentation](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2019-20%20MDE%20Ed-Fi%20Documentation)
+[2019-20 Ed-Fi API Release Documentation](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2019-20%20MDE%20Ed-Fi%20Documentation)
 
 # Support or Contact
 For any questions about the Minnesota Ed-Fi API, please [contact us by email](mailto:EdFiProjectSupportMNIT.MDE@state.mn.us).
