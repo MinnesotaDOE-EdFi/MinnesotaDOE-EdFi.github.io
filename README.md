@@ -5,10 +5,10 @@ Ed-Fi Test Sandbox environments are available for SIS vendors to implement and t
 ## Ed-Fi API Software Development Kit (SDK)
 The Minnesota Ed-Fi API software development kit can assist SIS vendors with implementation.
 
-[Minnesota Ed-Fi API Software Development Kit](https://github.com/MinnesotaDOE-EdFi/MDE-Ed-Fi-ODS-API-SDK)
+[Minnesota Ed-Fi API Software Development Kit](https://github.com/mn-mde-edfi/MDE-Ed-Fi-ODS-API-SDK)
 
 ## Ed-Fi API Release Documentation
-[2020-21 Ed-Fi API Release Documentation](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2020-21%20MDE%20Ed-Fi%20Documentation)
+[2020-21 Ed-Fi API Release Documentation](https://github.com/mn-mde-edfi/MDE-EdFi-Documentation/blob/master/2020-21%20MDE%20Ed-Fi%20Documentation)
 
 The Minnesota Ed-Fi API release documentation consists of:
 - SIS Vendor and District Test Plan
@@ -21,7 +21,7 @@ The Ed-Fi SIS Vendor and District Test Plan documents the most recent Ed-Fi API 
 - Interpreting Minnesota's Ed-Fi Data Mapping Matrix
 - Testing your implementation of Minnesota's Ed-Fi API resources
 
-[2021-22 Ed-Fi API Documentation Preview](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2021-22%20MDE%20Ed-Fi%20Documentation%20Preview)
+[2021-22 Ed-Fi API Documentation Preview](https://github.com/mn-mde-edfi/MDE-EdFi-Documentation/blob/master/2021-22%20MDE%20Ed-Fi%20Documentation%20Preview)
 
 The 2020-21 Ed-Fi API implementation also includes more data elements which we are planning for rollout starting in 2021-22.  The following information is currently available in the 2021-22 Ed-Fi API documentation preview:
 - Minnesota Common Course Catalog (MCCC) Data Mapping Matrix
@@ -29,7 +29,7 @@ The 2020-21 Ed-Fi API implementation also includes more data elements which we a
 # 2019-20 SIS Vendor Programming Resources
 The Ed-Fi SIS Vendor and District Test Plan documentation for 2019-20 is still available below.  However, only the latest version of the Ed-Fi API SDK is available, which has been updated for 2020-21 (see above).
 
-[2019-20 Ed-Fi API Release Documentation](https://github.com/MinnesotaDOE-EdFi/MDE-EdFi-Documentation/blob/master/2019-20%20MDE%20Ed-Fi%20Documentation)
+[2019-20 Ed-Fi API Release Documentation](https://github.com/mn-mde-edfi/MDE-EdFi-Documentation/blob/master/2019-20%20MDE%20Ed-Fi%20Documentation)
 
 # Support or Contact
 For any questions about the Minnesota Ed-Fi API, please [contact us by email](mailto:EdFiProjectSupportMNIT.MDE@state.mn.us).
