@@ -21,10 +21,9 @@ The Ed-Fi SIS Vendor and District Test Plan documents the most recent Ed-Fi API 
 - Interpreting Minnesota's Ed-Fi Data Mapping Matrix
 - Testing your implementation of Minnesota's Ed-Fi API resources
 
-[2021-22 Ed-Fi API Documentation Preview](https://github.com/mn-mde-edfi/MDE-EdFi-Documentation/blob/master/2021-22%20MDE%20Ed-Fi%20Documentation%20Preview)
+[2021-22 Ed-Fi API Documentation](https://github.com/mn-mde-edfi/MDE-EdFi-Documentation/tree/master/2021-22%20MDE%20Ed-Fi%20Documentation)
 
-The 2020-21 Ed-Fi API implementation also includes more data elements which we are planning for rollout starting in 2021-22.  The following information is currently available in the 2021-22 Ed-Fi API documentation preview:
-- Minnesota Common Course Catalog (MCCC) Data Mapping Matrix
+An udpated data mapping matrix is now available in the 2021-22 Ed-Fi API documentation folder, including more data elements which we are planning for rollout starting in 2021-22.
 
 # 2019-20 SIS Vendor Programming Resources
 The Ed-Fi SIS Vendor and District Test Plan documentation for 2019-20 is still available below.  However, only the latest version of the Ed-Fi API SDK is available, which has been updated for 2020-21 (see above).
