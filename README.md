@@ -25,10 +25,5 @@ The Ed-Fi SIS Vendor and District Test Plan documents the most recent Ed-Fi API 
 
 An udpated data mapping matrix is now available in the 2021-22 Ed-Fi API documentation folder, including more data elements which we are planning for rollout starting in 2021-22.
 
-# 2019-20 SIS Vendor Programming Resources
-The Ed-Fi SIS Vendor and District Test Plan documentation for 2019-20 is still available below.  However, only the latest version of the Ed-Fi API SDK is available, which has been updated for 2020-21 (see above).
-
-[2019-20 Ed-Fi API Release Documentation](https://github.com/mn-mde-edfi/MDE-EdFi-Documentation/blob/master/2019-20%20MDE%20Ed-Fi%20Documentation)
-
 # Support or Contact
 For any questions about the Minnesota Ed-Fi API, please [contact us by email](mailto:EdFiProjectSupportMNIT.MDE@state.mn.us).
